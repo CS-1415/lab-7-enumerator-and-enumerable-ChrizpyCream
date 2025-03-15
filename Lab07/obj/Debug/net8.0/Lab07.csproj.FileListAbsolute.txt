@@ -1,0 +1,12 @@
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\bin\Debug\net8.0\Lab07.deps.json
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\bin\Debug\net8.0\Lab07.dll
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\bin\Debug\net8.0\Lab07.pdb
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\Lab07.AssemblyInfo.cs
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\Lab07.sourcelink.json
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\Lab07.dll
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\refint\Lab07.dll
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\Lab07.pdb
+C:\Users\xxlaz\cs1410\lab-7-enumerator-and-enumerable-ChrizpyCream\Lab07\obj\Debug\net8.0\ref\Lab07.dll
